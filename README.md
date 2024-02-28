@@ -1,2 +1,5 @@
 # Spotify_Clone
+This project is purely HTML, CSS, and JavaScript-based.
 Developed Spotify clone with seamless playback, intuitive navigation, and full responsiveness. Integrated search bar, shuffle, next, and random playback. Managed front-end, optimized UX, and utilized HTML, CSS, JS for UI.
+One of the key features I integrated into the website was search bar functionality. This allowed users to effortlessly discover and access their favorite tracks, albums, and artists, enhancing the overall usability and convenience of the platform. By implementing this feature, I aimed to replicate the versatility and accessibility that users expect from a leading music streaming service like Spotify.
+Moreover, I incorporated additional functionalities to elevate the user experience further. Features such as shuffle, next, and random playback were seamlessly integrated to provide users with greater control and variety in their music listening sessions. These functionalities not only enhanced user engagement but also mirrored the familiar features found in established music streaming platforms, thereby increasing user satisfaction and retention.
